@@ -1,0 +1,5 @@
+write module names area
+contain 3 functions 
+	addnumbers
+	multiplynumbers
+
